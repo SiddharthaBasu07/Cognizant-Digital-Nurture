@@ -1,0 +1,6 @@
+Big O Notation:
+- Measures algorithm growth with input size.
+Best/Average/Worst:
+- Linear Search: Best O(1), Average O(n), Worst O(n)
+- Binary Search: Best O(1), Average O(log n), Worst O(log n)
+Binary search is preferred for large sorted datasets because it is much faster.
