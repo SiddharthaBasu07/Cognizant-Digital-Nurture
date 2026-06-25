@@ -1,0 +1,8 @@
+Recursion:
+A function calls itself until a base condition is reached.
+
+Time Complexity:
+O(n), where n is the number of years.
+
+Optimization:
+Use iteration or memoization to avoid unnecessary recursive calls for more complex recursive problems.
